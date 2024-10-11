@@ -14,5 +14,13 @@ public class TestandoVariaveis {
         boolean falseE = false;
         System.out.println(trueE);
         System.out.println(falseE);
+
+        System.out.println("Testando condicionais: ");
+        int idade = 16;
+        if (idade >= 18) {
+            System.out.println("Ok, pode comprar bebida");
+        } else {
+            System.out.println("Você não é maior de idade, não pode comprar bebida");
+        }
     }
 }
