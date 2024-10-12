@@ -17,15 +17,15 @@ public class ExercicioCadastroLogin {
         String nome = teclado.next();
         System.out.println("Digite a senha: ");
         String senha = teclado.next();
-        if(nome.isBlank() || nome.equalsIgnoreCase("") || nome.equalsIgnoreCase("admin") ||
-                nome.equalsIgnoreCase("administrador") || senha.isBlank() || senha.equalsIgnoreCase("admin") ||
+        if (nome.isBlank() || nome.equalsIgnoreCase("") ||
+                nome.equalsIgnoreCase("admin") ||
+                nome.equalsIgnoreCase("administrador") ||
+                senha.isBlank() || senha.equalsIgnoreCase("admin") ||
                 senha.equalsIgnoreCase("administrador")) {
             System.out.println("Erro: Usuário inválido");
         } else {
             System.out.println("Usuário: " + nome + " cadastrado com sucesso");
         }
         teclado.close();
-
-
     }
 }
