@@ -1,4 +1,4 @@
-package logicaProgramacao;
+package estruturasCondicionais;
 
 import java.util.Scanner;
 

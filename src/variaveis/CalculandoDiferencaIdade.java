@@ -1,4 +1,4 @@
-package logicaProgramacao;
+package variaveis;
 
 public class CalculandoDiferencaIdade {
     public static void main(String[] args) {

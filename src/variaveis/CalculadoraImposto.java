@@ -1,4 +1,4 @@
-package logicaProgramacao;
+package variaveis;
 
 public class CalculadoraImposto {
     private double salario;

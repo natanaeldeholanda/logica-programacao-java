@@ -1,4 +1,4 @@
-package logicaProgramacao;
+package estruturasCondicionais;
 
 public class VerificaIdade {
     public static void main(String[] args) {

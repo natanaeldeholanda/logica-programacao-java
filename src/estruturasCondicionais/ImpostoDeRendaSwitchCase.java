@@ -1,4 +1,4 @@
-package logicaProgramacao;
+package estruturasCondicionais;
 
 public class ImpostoDeRendaSwitchCase {
 

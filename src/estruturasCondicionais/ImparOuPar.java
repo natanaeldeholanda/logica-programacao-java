@@ -1,4 +1,4 @@
-package logicaProgramacao;
+package estruturasCondicionais;
 
 public class ImparOuPar {
     public static void main(String[] args) {

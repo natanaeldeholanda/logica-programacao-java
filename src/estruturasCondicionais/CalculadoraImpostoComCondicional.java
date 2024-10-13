@@ -1,4 +1,4 @@
-package logicaProgramacao;
+package estruturasCondicionais;
 
 /*
 Dado um determinado salário, se o salário for maior que 4500, imprima 30% do valor, senão, imprima 15% do valor.

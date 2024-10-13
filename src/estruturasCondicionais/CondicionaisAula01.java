@@ -1,4 +1,4 @@
-package logicaProgramacao;
+package estruturasCondicionais;
 
 public class CondicionaisAula01 {
     public static void main(String[] args) {
