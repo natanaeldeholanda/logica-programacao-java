@@ -2,14 +2,14 @@ package estruturasCondicionais;
 
 import java.util.Scanner;
 
-public class ExercicioAlistamentoMiliarEx2 {
+public class
+ExercicioAlistamentoMiliarEx2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("*** SISTEMA DE ALISTAMENTO MILITAR ***");
 
         char sexo = obterSexo(scanner);
         int idade = obterIdade(scanner);
-
         processarAlistamento(sexo, idade);
 
         scanner.close();
