@@ -12,7 +12,7 @@ O menu deve ser exibido da seguinte forma:
 OBS: O menu deve ficar disponível enquanto eu não digitar o número 3.
 Dessa forma o sistema ficará em execução, evitando ter que ser reiniciado a cada operação.
  */
-public class ExercicioWhile {
+public class ExercicioMenuWhile {
     public static void main(String[] args) {
         int opcao = 0;
         Scanner teclado = new Scanner(System.in);
