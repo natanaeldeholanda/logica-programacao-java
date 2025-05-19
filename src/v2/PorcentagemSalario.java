@@ -1,3 +1,4 @@
+
 package v2;
 
 /*
@@ -24,5 +25,6 @@ public class PorcentagemSalario {
         porcentagemImposto = 5F;
         porcentagemDoSalario = salario * (porcentagemImposto / 100);
         System.out.println("5% do salário: " + porcentagemDoSalario);
+
     }
 }
